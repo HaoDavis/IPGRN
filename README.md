@@ -2,9 +2,9 @@
 
 ## Run our Network
 ### Enviroment setup
-'''python
+```python
 pip install -r requirements.txt
-'''
+```
 ### Dataset preparation
 - The CMMD dataset can be accessed from [here](https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=70230508).
 - The ADCN dataset can be accessed from [here](https://adni.loni.usc.edu/).
